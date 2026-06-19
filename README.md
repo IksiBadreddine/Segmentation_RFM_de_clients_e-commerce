@@ -24,6 +24,16 @@ L'objectif est de produire des segments métier actionnables, puis d'associer à
 - Dataset utilisé : *Online Retail Dataset* (UCI ML Repository, id=352).
 - Volume initial : environ **541 909 lignes**.
 - Périmètre : transactions e-commerce principalement au Royaume-Uni.
+- InvoiceNo:Numéro de facture. Numéro numérique à 6 chiffres attribué de manière unique à chaque transaction. Si ce code commence par la lettre « c », cela indique une annulation.
+- StockCode: Code produit (article). Numéro numérique à 5 chiffres attribué de manière unique à chaque produit.
+- Description: Nom du produit (article).
+- Quantity : Quantité de chaque produit (article) par transaction.
+- InvoiceDate: Date et heure de la facture.
+- UnitPrice:  Prix unitaire du produit en livres sterling.
+- CustomerID : Numéro de client. Numéro numérique à 5 chiffres attribué de manière unique à chaque client.
+- Country:  Nom du pays de résidence du client.
+
+
 
 ## 4. Préparation des données
 
