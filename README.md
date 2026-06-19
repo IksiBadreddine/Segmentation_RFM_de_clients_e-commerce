@@ -158,3 +158,9 @@ Le notebook compare également la segmentation K-Means avec un clustering hiéra
 - Un enrichissement par des variables produits, des catégories, ou une valeur vie client (CLV) prédictive permettrait d'affiner la segmentation.
 - Le périmètre géographique, essentiellement Royaume-Uni, limite la généralisation à d'autres marchés.
 - Une segmentation par pays ou par saison serait pertinente pour les marchés les plus représentés.
+
+## 12. Démarche pour executer le projet 
+- installation de uv 
+- uv init
+- uv venv 
+- uv sync 
